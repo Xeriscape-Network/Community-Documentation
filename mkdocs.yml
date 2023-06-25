@@ -34,9 +34,9 @@ theme:
     - content.code.annotate
     - content.action.edit
     - content.action.view
-  icon:
-    edit: material/pencil 
-    view: material/eye
+  ##icon:
+  ##  edit: material/pencil 
+  ##  view: material/eye
   custom_dir: theme
 plugins:
   - search:
