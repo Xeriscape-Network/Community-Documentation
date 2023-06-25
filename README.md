@@ -1,2 +1,2 @@
 # Community-Documentation
-Welcome to the community documentation for The Xeriscape Network! This repository serves as a comprehensive resource for all things related to our community. It is built using [MKDocs](https://github.com/mkdocs/mkdocs) and [Material for MKDocs](https://github.com/squidfunk/mkdocs-material).
+Welcome to the community documentation for The Xeriscape Network! This repository serves as a comprehensive resource for all things related to our community. Hosted through the GitHub Pages platform, the site makes use of a continuous integration environment to automatically build and update the site using [MKDocs](https://github.com/mkdocs/mkdocs) and [Material for MKDocs](https://github.com/squidfunk/mkdocs-material).
