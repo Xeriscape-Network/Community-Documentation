@@ -1,0 +1,25 @@
+.md-footer__inner { 
+	display: none;
+}
+
+.md-footer__inner:not([hidden]) {
+    display: none;
+}
+
+/*.md-typeset__table {
+ *    min-width: 100%;
+ *}
+ *
+ *.md-typeset table:not([class]) {
+ *    display: table;
+ *}
+ */
+
+/* Logo Sizing*/ 
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+ fill:currentcolor;
+ display:block;
+ height:2rem;
+ width:auto
+}
