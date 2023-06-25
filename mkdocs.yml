@@ -33,6 +33,7 @@ theme:
     - announce.dismiss
     - content.code.annotate
     - content.action.edit
+    - content.action.view
   icon:
     edit: material/pencil 
     view: material/eye
