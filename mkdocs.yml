@@ -1,5 +1,7 @@
 site_name: XERISCAPE
 
+edit_uri: edit/main/docs/
+
 repo_name: The-Xeriscape-Network/Community-Documentation
 repo_url: https://github.com/The-Xeriscape-Network/Community-Documentation
 
