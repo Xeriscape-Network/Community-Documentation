@@ -26,7 +26,6 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
     - search.suggest
@@ -34,6 +33,7 @@ theme:
     - search.highlight
     - announce.dismiss
     - content.code.annotate
+    - content.action.edit
   custom_dir: theme
 plugins:
   - search:
