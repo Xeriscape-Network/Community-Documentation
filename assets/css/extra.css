@@ -1,0 +1,26 @@
+.md-footer__inner { 
+	display: none;
+}
+
+.md-footer__inner:not([hidden]) {
+    display: none;
+}
+
+/*.md-typeset__table {
+ *    min-width: 100%;
+ *}
+ *
+ *.md-typeset table:not([class]) {
+ *    display: table;
+ *}
+ */
+ 
+ /* Maximum space for text block */
+.md-grid {
+  max-width: 85%; /* or 100%, if you want to stretch to full-width */
+}
+
+/* .md-tag { */
+  /* display: none; */
+  /* pointer-events: none; */
+/* } */
