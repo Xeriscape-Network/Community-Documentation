@@ -1,0 +1,79 @@
+site_name: XERISCAPE
+#site_url: https://support.xeriscape.network/
+#edit_uri: edit/main/docs/
+
+
+repo_name: Community-Documentation
+repo_url: https://github.com/Xeriscape-Network/Community-Documentation
+
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/images/logo.png
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+#00bfa5
+#ff9100
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.path
+    - search.suggest
+    - search.share
+    - search.highlight
+    - toc.follow
+    - announce.dismiss
+    - content.code.annotate
+plugins:
+  - search:
+      lang: en
+      prebuild_index: true
+  - awesome-pages
+  - tags:
+      enabled: true
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - footnotes
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://xeriscape.network
+    - icon: fontawesome/brands/discord
+      link: https://discord.xeriscape.network/
+copyright: Copyright &copy; Xeriscape, ZeNinja864
+extra_css:
+  - assets/css/extra.css

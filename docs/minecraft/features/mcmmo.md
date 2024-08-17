@@ -1,0 +1,34 @@
+# McMMO
+McMMO, short for Minecraft Massively Multiplayer Online, is a plugin designed to amplify the adventure within the Minecraft universe. It introduces a comprehensive skill system that allows players to level up and unlock unique abilities in various categories. As players engage in regular activities, they accumulate experience points (XP), contributing to their skill levels and unlocking powerful perks.
+
+## Player Skills
+
+### Harvesting Skills
+- **Excavation**<br />
+Excavation involves unearthing treasures by digging up dirt, sand, clay, gravel, and more. It introduces the shovel ability known as *Giga Drill*. Additionally, *Archaeology* connects distinct drops from excavation to various levels, making rarer treasures accessible only after players reach specific skill levels.
+- **Mining**<br />
+Mining involves extracting experience points by mining stone and ores, with bonuses applied to drops. It introduces the pickaxe ability *Super Breaker* for efficient mining. Additionally, *Blast Mining* allows players to crouch, right-click a TNT from a distance, triggering an instant explosion. This feature extends the blast radius, reducing damage while increasing ore yields and minimizing dropped debris.
+- **Woodcutting**<br />
+Woodcutting is a skill dedicated to felling trees and gathering wood. The active ability *Tree Feller* empowers players to chop down entire trees in a single action. *Leaf Blower*, a passive ability, enables instant breaking of leaf blocks upon contact with an axe.
+- **Herbalism**<br />
+Herbalism involves the collection of herbs and plants. One notable skill is *Green Terra*, which, when using hoes, allows players to obtain up to three times the usual drops when harvesting plants. *Green Thumb*, a valuable passive ability, automatically replants crops for players during the harvesting process. Additionally, the *Farmers Diet* passive increases the amount of hunger restored from consuming food. *Hylian Luck*, another passive skill, provides players with the chance to discover rare items when breaking specific blocks with a sword.
+- **Fishing**<br />
+Fishing enhances the chances of capturing valuable and rare items. The passive skill *Ice Fishing* enables players to fish on frozen surfaces; Casting a fishing rod in an ice lake automatically creates a small hole for fishing. Another passive skill, *Master Angler*, boosts the likelihood of getting a bite while fishing, with improved odds when fishing from a boat. The active ability *Shake* lets players lose items from mobs by hooking them with a fishing rod. Additionally, *Fisherman's Diet*, a passive skill, increases the amount of hunger restored when consuming fish.
+
+### Crafting Skills
+- **Repair**<br />
+Allows players to repair items with an iron block. Repair mastery gives an extra amount of durability repaired based on a player's repair skill level. Super Repair is a passive ability that grants players a chance at repairing an item with double effectiveness. Arcane Forging is a passive ability that allows players to repair items with a chance of maintaining its enchantments; Arcane Forging can fail, resulting in enchantments either being downgraded to a lower level or lost entirely.
+- **Salvage**<br />
+Allows players to salvage items with a gold block. Advanced Salvage allows players to salvage damaged items; Grants a yield percentage of getting an amount of materials back correlating with a higher percentage meaning more materials. Arcane Salvage allows players to get enchanted books back when salvaging enchanted items; It depends on a percentage chance and can either be the full enchantment or a downgraded level.
+
+### Combat Skills
+- **Unarmed**<br />
+Enhances the efficiency of using fists as a weapon in combat. Beserk is an active ability that allows players to deal up to 50% more damage; Also allows players to instantly break weak materials such as grass blocks and dirt. Steel Armor Style increases damage dealt when using fists. Arrow Deflect is a passive ability that gives players a chance to deflect arrows shot by Skeletons or other players. Disarm is a passive ability that grants players a chance to disarm their opponent, causing their weapon to fall to the ground; Iron Grip is a passive ability that is opposite to Disarm which grants the player a chance to prevent a disarm attempt.
+- **Swords**<br />
+Enhances the efficiency of using swords in combat. Features the "Serrated Strikes" ability which allows players to do up to 25% damage dealt to a target in an AoE area; it may also apply Rupture. Counter Attack is another ability that grants players the ability to block damage with a shield and have a chance to reflect up to 50% damage taken. Rupture is an effect that causes enemies to take damage every two seconds; The target will bleed until either the effect wears off or death, whichever comes first; Duration is increased by sword skill level.
+- **Axes**<br />
+Enhances the efficiency of using axes in combat. Features the "Skull Splitter" AOE ability which deals half as much damage in an area that was done to the main target. Passive ability of "Critical Strikes" which gives a chance to deal additional damage with axes. Axe Mastery is a passive ability that grants additional damage to successful hits with axes in combat. Armor Impact is another passive that allows players to shatter armor. Greater Impact is also another passive too, which grants a chance to increase knockback on a successful hit.
+- **Archery**<br />
+Combat bonuses such as damage boost and the ability to daze opponents. Skill Shot provides additional damage to bow shots. Passive ability of Daze which forces opponents to look up and be "stunned" for a period of time; Daze also deals up to four additional damage points, two hearts. Arrow Retrieval grants the player the ability to retrieve some of their arrows upon a successful kill.
+- **Taming**<br />
+Grants various combat bonuses when using tamed wolves. Call of the Wild is an active ability that allows players the ability to summon a wolf or cat to their side. Beast Lore allows players to inspect pets to check their stats. Gore is a passive ability that grants a chance of inflicting bleed on a player's wolves' targets. Sharpened Claws provide a damage bonus to damage dealt by a player's wolves. Environmentally Aware is a passive that allows wolves to teleport to their owner when they get near hazards that would typically kill them; It also makes them immune to fall damage. Thick Fur is an ability that grants damage reduction to wolves and also makes them resistant to fire damage. Shock Proof reduces the damage done to wolves from explosions. Fast Food Service is a passive ability that grants wolves a chance to heal whenever they successfully attack an enemy.
