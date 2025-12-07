@@ -7,7 +7,7 @@ title: Xeriscape
   }
 </style>
 <center>
-    ![Image title](https://support.xeriscape.network/assets/images/kindpng_welcome.png)
+    <image src="/assets/images/kindpng_welcome.png">
 	[Join our community Discord server for announcements and discussion!](https://discord.xeriscape.network/)
 </center>
 
