@@ -14,4 +14,4 @@ For new players, check out our [welcome guide](./welcome-guide/index.md) to get 
 
 <center>
 	[:material-minecraft: Start Your Adventure](./welcome-guide){ .md-button }
-</center>23
+</center>
