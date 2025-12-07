@@ -6,10 +6,10 @@ title: Xeriscape
     display: none;
   }
 </style>
-<center>
-    <image src="/assets/images/kindpng_welcome.png">
+<figure markdown="span">
+    ![](/assets/images/kindpng_welcome.png)
 	[Join our community Discord server for announcements and discussion!](https://discord.xeriscape.network/)
-</center>
+</figure>
 
 Welcome to The Xeriscape Network! Founded on March 23, 2010, The Xeriscape Network has existed as a community of friends brought together by their love of gaming; We welcome members from all walks of life and currently consist of an international membership.
 	
