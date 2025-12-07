@@ -5,7 +5,7 @@
   }
 </style>
 <center>
-	![minecraft_logo](../assets/images/mcje_logo.png)
+	![minecraft_logo](https://support.xeriscape.network/assets/images/mcje_logo.png)
 </center>
 
 The server offers a Vanilla SMP+ experience by providing extra features through plugins and scripting as well as a custom datapack.
