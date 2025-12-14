@@ -26,7 +26,7 @@ To connect, open your Minecraft Java Edition `Multiplayer` server list and selec
 Select `Done` to add the server; You should then be able to connect to the server.
 
 <figure markdown="span">
-	![mcje_server_menu](../../assets/images/minecraft/mcje_addserver.png)
+	![](../../assets/images/minecraft/mcje_addserver.png)
 </figure>
 
 ### Bedrock Edition
@@ -45,7 +45,7 @@ To connect through Bedrock, navigate to the `Servers` tab of the play menu and s
 In the `Add A New Server` prompt, set the `Server Name` to `Telzenith` and use `telzenith.xyz` for the `Server Address`. The port field should remain untouched as we utilize Bedrock's default port of `19132` for incoming Bedrock client connections. Once you have entered relevant server information, you can pick either option to add the server to your list. Regardless of your choice, Minecraft should display the newly added server at the bottom of your server list below the partnered servers with the server displaying its information. You can then select the server and chose to connect from there.
 
 <figure markdown="span">
-	![mcbe_add_server](../../assets/images/minecraft/mcbe_addserver.png)
+	![](../../assets/images/minecraft/mcbe_addserver.png)
 </figure>
 
 !!! info inline end "Minecraft ID Linking"
