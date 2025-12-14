@@ -25,9 +25,9 @@ To connect, open your Minecraft Java Edition `Multiplayer` server list and selec
 
 Select `Done` to add the server; You should then be able to connect to the server.
 
-<center>
+<figure markdown="span">
 	![mcje_server_menu](../../assets/images/minecraft/mcje_addserver.png)
-</center>
+</figure>
 
 ### Bedrock Edition
 As mentioned, clients running Minecraft's Bedrock Edition codebase can also connect to the server through our GeyserMC proxy. The instructions below cover the process of adding the server and connecting to it on Minecraft Pocket and Windows editions; If you would like to connect to Telzenith on a console instead, please refer to [this GeyserMC wiki article](https://geysermc.org/wiki/geyser/using-geyser-with-consoles/) for information regarding how to connect to a server on console. 
@@ -44,9 +44,9 @@ To connect through Bedrock, navigate to the `Servers` tab of the play menu and s
 
 In the `Add A New Server` prompt, set the `Server Name` to `Telzenith` and use `telzenith.xyz` for the `Server Address`. The port field should remain untouched as we utilize Bedrock's default port of `19132` for incoming Bedrock client connections. Once you have entered relevant server information, you can pick either option to add the server to your list. Regardless of your choice, Minecraft should display the newly added server at the bottom of your server list below the partnered servers with the server displaying its information. You can then select the server and chose to connect from there.
 
-<center>
+<figure markdown="span">
 	![mcbe_add_server](../../assets/images/minecraft/mcbe_addserver.png)
-</center>
+</figure>
 
 !!! info inline end "Minecraft ID Linking"
 

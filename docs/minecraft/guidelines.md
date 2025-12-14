@@ -16,7 +16,7 @@ All Redstone machines, clocks, timers, and automated contraptions must be constr
 ## Gameplay Automation
 Players are strictly forbidden from automating gameplay through any means, including the use of client-side automation tools such as Baritone. This includes bypassing the server's idle timeout mechanism, whether the method is built into the game or relies on a client modification. Additionally, the use of any client modification that grants an unfair gameplay advantage is prohibited. For details on which client modifications are permitted, please refer to our mod policy.
 
-## Land Claims
+## Player Protection Claims
 Players are encouraged to create claims to protect their builds and regions, and griefing within these player protection claims and server regions is prohibited. If a player has been inactive on the server for over 90 days, their claimed regions will be marked as expired. Once expired, these regions won’t automatically revert to their natural state, but the structures within them will instead become vulnerable to griefing or looting by other players.
 
 ## PvP Combat
