@@ -6,8 +6,9 @@ title: Xeriscape
     display: none;
   }
 </style>
+
 <figure markdown="span">
-    ![](/assets/images/kindpng_welcome.png)
+    ![](./assets/images/kindpng_welcome.png)
 	[Join our community Discord server for announcements and discussion!](https://discord.xeriscape.network/)
 </figure>
 
