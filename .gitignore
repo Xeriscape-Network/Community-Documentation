@@ -1,0 +1,2 @@
+# Ignore the directory where Zenscal builds the static site
+site/
