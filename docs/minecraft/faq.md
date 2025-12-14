@@ -67,7 +67,7 @@ If you have a link you believe should be considered for whitelisting, please con
 It's worth mentioning that the Discord server may have more relaxed rules regarding what links are allowed to be posted. Feel free to share relevant links and information on Discord, keeping in mind the community guidelines. However, be cautious and ensure that the content complies with our overall community policies. 
 
 ### How do I access a channel?
-Channel access is determined by player ranks within the server and the broader Xeriscape community. While all publicly available channels are open to all server players, [certain conditions](../features/chat#channel-directory) may need to be met to send and receive messages in specific channels.
+Channel access is determined by player ranks within the server and the broader Xeriscape community. While all publicly available channels are open to all server players, [certain conditions](./features/chat#channels) may need to be met to send and receive messages in specific channels.
 
 If you previously had access to the VIP chat channel and no longer do, it may be because your Discord boost expired, leading to the automatic removal of your Booster rank on the server and consequently, the loss of access to the channel.
 
