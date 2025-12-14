@@ -16,10 +16,13 @@ All Redstone machines, clocks, timers, and automated contraptions must be constr
 ## Gameplay Automation
 Players are strictly forbidden from automating gameplay through any means, including the use of client-side automation tools such as Baritone. This includes bypassing the server's idle timeout mechanism, whether the method is built into the game or relies on a client modification. Additionally, the use of any client modification that grants an unfair gameplay advantage is prohibited. For details on which client modifications are permitted, please refer to our mod policy.
 
+## Gameplay Exploits
+Players are forbidden from exploiting any known or newly discovered server, Minecraft, or plugin bugs/glitches for personal gain, resource duplication, or to intentionally disrupt the server.
+
 ## Player Protection Claims
 Players are encouraged to create claims to protect their builds and regions, and griefing within these player protection claims and server regions is prohibited. If a player has been inactive on the server for over 90 days, their claimed regions will be marked as expired. Once expired, these regions won’t automatically revert to their natural state, but the structures within them will instead become vulnerable to griefing or looting by other players.
 
-## PvP Combat
+## Player V Player (PvP) Combat
 Telzenith’s server environment operates within Minecraft’s PvEvP framework, where Player vs. Player (PvP) mechanics can be individually toggled on or off. Enabling PvP through the `/pvp` command is a voluntary decision, and you assume the risk of potential attacks from other players who also have PvP enabled. 
 
 In the event of your death on the server, your dropped items will become claimable to all other players, without any obligation for them to be returned back to you.
@@ -28,12 +31,14 @@ In the event of your death on the server, your dropped items will become claimab
 Trading real-world items or currency is forbidden, as engaging in transactions to buy or sell in-game items, including accounts, violates Minecraft’s EULA. An exception to this rule is when players trade or compensate each other for services or tasks (such as building structures) to be completed on the server. Please be aware that **these transactions are not enforceable by staff and are to be entered into at your own risk**.
 
 ## Trapping & Exploitation
-Please refrain from devising traps that use portals or hidden ports within safe/protected areas to capture, or to "soft-lock" them, making it impossible to leave without staff assistance. Some examples of "soft-locking" players include:
+Please refrain from creating traps or using gameplay mechanics to soft-lock other players, making it impossible for them to leave, escape, or play without the assistance of a staff member.
 
-- A portal that leads to death overtime, including wither, water, poison, or any other means of damage over time in Minecraft. 
-- Portal trapping; Surrounding a portal in blocks that prevent players from exiting the portal blocks or interacting with the game client menus and chat. 
-- Bed trapping a player in a bed while utilizing gameplay mechanics to kill that player immediately after they have respawned. 
-- Using TPA requests to kill players upon teleportation.
+Prohibited trapping methods and examples include:
+
+- **Portal Trapping:** Surrounding a portal in blocks that prevent players from exiting the portal blocks or interacting with the game client menus and chat.
+- **Death Trap Portals:** A portal that leads to immediate or guaranteed death over time, including setups utilizing the Wither effect, suffocation, poison, or any other means of damage over time.
+- **Spawn Trapping:** Bed trapping a player in a bed while utilizing gameplay mechanics to kill that player immediately after they have respawned.
+- **TPA/Teleportation Traps:** Using teleportation requests (`/tpa`) to lure and kill players.
 
 ## Alternate Accounts
 Multiple accounts connecting from the same network will be handled on a case-by-case basis. Please notify a staff member if the accounts are either individual players or alternate accounts; Unreported accounts will be treated as alternate accounts of another account.
