@@ -28,17 +28,17 @@ For detailed examples and a full clarification this policy, please refer to the 
 
 ## Discord Access
 ### How do I join the Discord?
-The community Discord server can be joined via its [invite URL](https://discord.xeriscape.network). To access the Minecraft-specific channels, you will need to assign yourself the `Minecraft` role; To participate within the channels, you will need to [link your Minecraft account UUID with your Discord account ID via the Telzenith Discord bot](../welcome-guide/linking).
+The community Discord server can be joined via its [invite URL](https://discord.xeriscape.network). To access the Minecraft-specific channels, you will need to assign yourself the `Minecraft` role; To participate within the channels, you will need to [link your Minecraft account UUID with your Discord account ID via the Telzenith Discord bot](./welcome-guide/linking).
 
 ## Gameplay Mechanics
 ### How do I X?
-The Minecraft server has a dedicated section on the community support website for everything related to the server from in-game systems to troubleshooting guides; The section can be accessed via either URL of [https://support.xeriscape.network/minecraft](https://support.xeriscape.network/minecraft) or [https://wiki.telzenith.xyz/](https://wiki.telzenith.xyz/); The /wiki command in game will also present you with the two URLs. Some basic questions, when asked in chat, will also be auto-answered by the server itself; One example is the question How do I claim land?.
+The Minecraft server has a dedicated section on the community support website for everything related to the server from in-game systems to troubleshooting guides; The section can be accessed via either URL of [https://support.xeriscape.network/minecraft](https://support.xeriscape.network/minecraft) or [https://wiki.telzenith.xyz/](https://wiki.telzenith.xyz/); The /wiki command in game will also present you with the two URLs. Some basic questions, when asked in chat, will also be auto-answered by the server itself; One example is the question of *How do I claim land?*.
 
 For Vanilla gameplay mechanics, it is advised to use the [community wiki](https://minecraft.wiki/) as a reference.
 
 ### Can a feature be added?
 
-If you are looking to ask for an addition or change to the server, head on over to the [suggestions forum](https://discord.com/channels/555868544244514836/1027461719364223036) in the [community Discord server](https://discord.xeriscape.network/) and create a thread topic there; It is advised to read the [Suggestion Submission Guide](../../community/feedback/suggestions) prior to posting a suggestion however.
+If you are looking to ask for an addition or change to the server, head on over to the [suggestions forum](https://discord.com/channels/555868544244514836/1027461719364223036) in the [community Discord server](https://discord.xeriscape.network/) and create a thread topic there; It is advised to read the [Suggestion Submission Guide](../../community/feedback/suggestions) prior to posting a suggestion, however.
 
 ### Can we have a modpack?
 
@@ -47,7 +47,7 @@ Telzenith is built upon Minecraft's Vanilla experience and has been optimized an
 ### How do I protect my stuff?
 On Telzenith, a variety of systems are in place granting players the ability to protect their items.
 
-Player homes and builds can be protected using [protection claims](../features/claims). Inventories within claims, including chests and furnaces, are also protected but can be accessed by other claim members. Since player claims safeguard physical parts of the server world, if a claim owner is inactive for more than 90 days, their claim will expire, allowing all players to modify the blocks within the claim.
+Player homes and builds can be protected using [protection claims](./features/claims). Inventories within claims, including chests and furnaces, are also protected but can be accessed by other claim members. Since player claims safeguard physical parts of the server world, if a claim owner is inactive for more than 90 days, their claim will expire, allowing all players to modify the blocks within the claim.
 
 ### Is PvP enabled or allowed?
 PvP is permitted on the server, but it's a voluntary feature. Players can toggle their PvP state using the /pvp command. Players who enable PvP will have a red dagger next to their username, denoting their active PvP status. Keep in mind that players with PvP activated can engage in combat only with others who have also enabled PvP for themselves.
@@ -71,7 +71,7 @@ Channel access is determined by player ranks within the server and the broader X
 
 If you previously had access to the VIP chat channel and no longer do, it may be because your Discord boost expired, leading to the automatic removal of your Booster rank on the server and consequently, the loss of access to the channel.
 
-The Party chat channel is exclusive to members of your [McMMO party](../features/mcmmo). To send and receive messages in this channel, you must be part of an active [McMMO party](../features/mcmmo), allowing communication only with online party members.
+The Party chat channel is exclusive to members of your [McMMO party](./features/mcmmo). To send and receive messages in this channel, you must be part of an active [McMMO party](./features/mcmmo), allowing communication only with online party members.
 
 ### Is chat reporting disabled?
 
@@ -92,7 +92,7 @@ To improve your connection, consider closing unnecessary background applications
 
 Additionally, server performance and the number of players online can impact ping, so try connecting during non-peak hours for a potentially smoother experience. 
 
-There is also a [connection troubleshooting guide](../troubleshooting/connectivity) available offering in depth guides and potential solutions.
+There is also a [connection troubleshooting guide](./troubleshooting/connection) available offering in depth guides and potential solutions.
 
 ## Moderation
 
