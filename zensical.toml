@@ -51,6 +51,57 @@ copyright = "Copyright &copy; 2025 The Xeriscape Network"
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
 
+# This is temporary until `.pages` is ported from Material MKDocs
+nav = [
+  {"Home" = ["index.md"]},
+  {"Community" = [
+      "community/index.md",
+      {"Feedback" = [
+          "community/feedback/index.md",
+          "community/feedback/suggestions.md",
+          "community/feedback/support.md"
+      ]},
+      {"Guides" = [
+          "community/guides/index.md",
+          "community/guides/microphone.md"
+      ]},
+      "community/ranks.md",
+      "community/wellness.md"
+  ]},
+  {"Minecraft" = [
+      "minecraft/guidelines.md",
+      {"Welcome Guide" = [
+          "minecraft/welcome-guide/index.md",
+          "minecraft/welcome-guide/connecting.md",
+          "minecraft/welcome-guide/linking.md",
+          "minecraft/welcome-guide/economy.md"
+      ]},
+      {"Features" = [
+          "minecraft/features/index.md",
+          "minecraft/features/chat.md",
+          "minecraft/features/claims.md",
+          {"Economy" = [
+              "minecraft/features/economy/index.md",
+              "minecraft/features/economy/jobs.md",
+              "minecraft/features/economy/marketplace.md",
+              "minecraft/features/economy/trade-security.md"
+          ]},
+          "minecraft/features/mcmmo.md",
+          "minecraft/features/titles.md",
+          "minecraft/features/warps.md",
+          "minecraft/features/vanilla-changes.md",
+      ]},
+      {"Troubleshooting" = [
+          "minecraft/troubleshooting/index.md",
+          "minecraft/troubleshooting/connection.md",
+          "minecraft/troubleshooting/performance.md",
+          "minecraft/troubleshooting/account-security.md",
+      ]},
+     "minecraft/mods.md",
+     "minecraft/faq.md",
+  ]}
+]
+
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
 # CSS files.
