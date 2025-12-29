@@ -73,6 +73,7 @@ nav = [
       {"Welcome Guide" = [
           "minecraft/welcome-guide/index.md",
           "minecraft/welcome-guide/connecting.md",
+          "minecraft/welcome-guide/getting-started.md",
           "minecraft/welcome-guide/linking.md",
           "minecraft/welcome-guide/economy.md"
       ]},
@@ -80,16 +81,18 @@ nav = [
           "minecraft/features/index.md",
           "minecraft/features/chat.md",
           "minecraft/features/claims.md",
+          "minecraft/features/locks.md",
           {"Economy" = [
               "minecraft/features/economy/index.md",
               "minecraft/features/economy/jobs.md",
-              "minecraft/features/economy/marketplace.md",
-              "minecraft/features/economy/trade-security.md"
+              "minecraft/features/economy/chestshops.md",
+              "minecraft/features/economy/auctionhouse.md",
+              "minecraft/features/economy/trading.md"
           ]},
           "minecraft/features/mcmmo.md",
           "minecraft/features/titles.md",
           "minecraft/features/warps.md",
-          "minecraft/features/vanilla-changes.md",
+          "minecraft/features/changes.md",
       ]},
       {"Troubleshooting" = [
           "minecraft/troubleshooting/index.md",

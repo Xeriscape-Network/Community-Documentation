@@ -4,7 +4,7 @@ tags:
   - Minecraft
 ---
 
-# Trade Security
+# Trading
 
 When giving an item to someone else it is important to do it safely and to gather proper evidence of the transaction. This can apply in situations like item/auction trades, item rentals/sharing, item repair, and combination services. In most situations, you may want to make an agreement before giving an item in a transaction.
 When trading an item, is it a good idea to thoroughly screenshot the process of giving an item to someone else. It may seem like overkill, but by having detailed screenshot evidence, you can protect yourself from false allegations of not following through with an agreement. Please read about proper evidence and how to take screenshots

@@ -91,7 +91,7 @@ Claims are automatically removed if a player remains inactive for a specific per
 - **New Players:** Claims created by new players have an expiration of 14 days (two weeks).
 - **Established Players:** Established players have a base level expiration of 60 days, with higher server ranks being granting even longer periods of inactivity before their claims expire.
 
-To keep your claim active and reset the expiration countdown, simply log in to the server. Each login resets the expiration timer, regardless of your player rank. If a player does not log in prior to their claim expiring (e.g., a new player makes a claim but doesn't log in for 15 days), the claim's protection will be automatically removed. This means the land and any structures built within it remain, but they are no longer protected. The area and its contents become fair game for everyone else on the server, allowing other players to freely modify or take blocks from the formerly protected area.
+To keep a claim active, simply log in to the server as each login resets the expiration timer, regardless of player rank. If a player fails to log in before their claim expires (e.g., a new player claims land but doesn’t log in for 15 days), the claim’s protection is automatically removed. The land and any structures remain, but are no longer protected and may be freely modified or looted by other players.
 
 
 
