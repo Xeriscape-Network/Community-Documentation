@@ -10,7 +10,7 @@ Bolt is our server's protection system for containers and blocks. It allows you 
 ## Limits & Claims
 To ensure everyone has the opportunity to protect their most important belongings, each player is provided an allocation of 500 total locks.
 
-It is important to note that Bolt locks are independent of the claim system. This means:
+It is important to note that Bolt locks are independent of the [claim system](./claims). This means:
 
 - **In the Wild:** You can lock containers anywhere in the world, even if the land is not claimed.
 - **In Shared Claims:** If you live in a claim with other players, your locks will prevent other claim members from accessing your containers unless you explicitly give them permission.
