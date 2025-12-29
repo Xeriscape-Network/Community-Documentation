@@ -85,7 +85,7 @@ nav = [
           {"Economy" = [
               "minecraft/features/economy/index.md",
               "minecraft/features/economy/jobs.md",
-              "minecraft/features/economy/chestshops.md",
+              "minecraft/features/economy/chestshop.md",
               "minecraft/features/economy/auctionhouse.md",
               "minecraft/features/economy/trading.md"
           ]},
