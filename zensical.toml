@@ -56,6 +56,8 @@ nav = [
   {"Home" = ["index.md"]},
   {"Community" = [
       "community/index.md",
+      "community/ranks.md",
+      "community/trust.md",
       {"Feedback" = [
           "community/feedback/index.md",
           "community/feedback/suggestions.md",
@@ -65,10 +67,10 @@ nav = [
           "community/guides/index.md",
           "community/guides/microphone.md"
       ]},
-      "community/ranks.md",
       "community/wellness.md"
   ]},
   {"Minecraft" = [
+      "minecraft/index.md",
       "minecraft/guidelines.md",
       {"Welcome Guide" = [
           "minecraft/welcome-guide/index.md",
@@ -224,7 +226,7 @@ features = [
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
-    "navigation.expand",
+    # "navigation.expand",
 
     # This feature turns on navigation elements in the footer that allow the
     # user to navigate to a next or previous page.

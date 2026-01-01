@@ -8,7 +8,7 @@
     ![](../assets/images/mcje_logo.png)
 </figure>
 
-This portion of the support site covers everything you need to know about the Telzenith Minecraft server, from its core philosophy to detailed guides on every feature and system.
+This portion of the support site covers everything you need to know about the Minecraft server, Telzenith, from its core philosophy to detailed guides on every feature and system.
 
 Telzenith offers a Vanilla SMP+ Minecraft experience, providing a familiar survival multiplayer (SMP) environment enhanced with quality-of-life features, custom mechanics, and unique systems through the use of plugins, advanced scripting, and a custom datapack. We strive to maintain the authentic feel of vanilla Minecraft while adding layers of depth and community interaction.
 

@@ -4,7 +4,7 @@ tags:
   - Minecraft
 ---
 # Getting Started
-Welcome to the server! Once you’ve connected to Telzenith, you might be wondering what to do next. This guide will help you navigate your first few minutes and set you up for a successful journey.
+Welcome to the server! Once you’ve connected to Telzenith, you might be wondering what to do next. This guide will help you navigate your first few hours on the server and get you started on the right foot.
 
 ## Spawn & Navigation
 When you first join, you will arrive at the server Spawn. This is a safe zone where you can meet other players and access essential server information.
