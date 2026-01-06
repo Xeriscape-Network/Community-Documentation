@@ -29,9 +29,9 @@ The Golden Shovel is the tool you use to create new claims and adjust the size o
     - Upon a successful claim creation, the corners will be clearly marked out with Gold Blocks and Glowstone.
     - Upon failure of creating a claim, the error message will be printed to chat. For example, if there is an overlap with an existing claim, the corners will change to Redstone Ore and Netherrack.
 
-!!! info inline end "Claim Protection Height"
+!!! info "Identifying Your Mode"
 
-    In the Overworld, claims are full vertical height, from bedrock (Y=-64) to the build limit (Y=320). Claims created in the Nether are restricted to 3D volumetric claims, meaning they only protect the area between the two points you selected and are not full height.
+    When you equip a Golden Shovel, check the action bar (the text above your hotbar). It displays your current claim mode, such as 2D/3D Basic Claim Mode or Subdivision Claim Mode. You can use the `/cuboid` command to switch between 2D and 3D modes.
 
 Once a claim has been created, the region contained within is protected from modification. Other players cannot build, break blocks, or access your chests, furnaces, or interact with doors and other interactable blocks within the claim.
 
@@ -44,11 +44,26 @@ The Stick is your inspection tool for viewing protection details. While holding 
 - **Right-Click** any block with the Stick to check if it is part of a claim. If it is, the claim's boundaries will be highlighted (usually with glowstone/gold blocks) and information will be displayed in chat.
 - **Shift + Right-Click** the ground with the Stick to view a list in chat of all nearby claims and their owners.
 
+## Dimensional Rules
+Protection behaves differently depending on which dimension you are currently in.
+
+### The Overworld
+By default, Overworld claims are created in Area (2D) mode, meaning they are full vertical height. This protects everything from bedrock (Y=-64) to the build limit (Y=320), regardless of the altitude where you clicked with your shovel. However, if you prefer to protect only a specific vertical segment, you can use the `/cuboid` command to switch to 3D/Volumetric mode.
+
+### The Nether
+Claims in the Nether are volumetric (3D). They only protect the specific cube area between your two selected points.
+
+These claims must be a minimum size of 5x5x5 blocks and cannot exceed a maximum size of 50x50x50 blocks. If you are unable to create a claim, you may be in the 2D Basic Mode; use the `/cuboid` command to toggle into 3D mode to allow Nether claiming.
+
+### The End
+**Land protection is disabled in The End.** You cannot create claims in this dimension. If you attempt to do so, you will receive the message: *You don't have permission to claim land.*
+
 ## Claim Management
 You can manage your claimed land, set access permissions for friends, and control ownership using the following commands:
 
 - `/kit claim` - Grants a kit containing a Golden Shovel and Stick
 - `/claimtool` - Toggles claim functionality of the Golden Shovel and Stick
+- `/cuboid` -  Toggles between 2D (Area) and 3D (Cuboid/Volumetric) claim modes
 - `/abandonclaim` - Abandon the claim you are currently standing in
 - `/abandonallclaims` - Abandon all of your claims; Requires confirmation
 - `/trust <player>` - Grants full permissions (build, containers, access) to a player
@@ -74,6 +89,7 @@ Subdivisions (also known as sub-claims) allow you to create smaller, nested clai
 
 To exit subdivision mode, use the `/basicclaims` command.
 
+While 2D (Area) subdivisions are more than enough for most cases, if you really want to limit the specific area in which players can interact and modify, a 3D Cuboid/Volumetric subdivision may be more beneficial for precise control.
 
 ## Obtaining More Claim Blocks
 Claim blocks are a limited resource designed to limit the amount of land a player can protect, thereby ensuring they prioritize and claim only the areas they truly need for active use. For players who require additional claim blocks however, they can be acquired:
