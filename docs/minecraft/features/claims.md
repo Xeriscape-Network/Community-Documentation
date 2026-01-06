@@ -58,7 +58,9 @@ By default, Overworld claims are created in Area (2D) mode, meaning they are ful
 
 Claims in the Nether are volumetric (3D). They only protect the specific cube area between your two selected points.
 
-These claims must be a minimum size of 5x5x5 blocks and cannot exceed a maximum size of 50x50x50 blocks. If you are unable to create a claim, you may be in the 2D Basic Mode; use the `/cuboid` command to switch over to 3D mode to allow claim creation in the Nether.
+These claims must be a minimum size of 5x5x5 blocks and cannot exceed a maximum size of 50x50x50 blocks.
+
+If you are unable to create a claim, you may be in the 2D Basic Mode; use the `/cuboid` command to switch over to 3D mode to allow claim creation in the Nether.
 
 ### The End
 **Land protection is disabled in The End.** You cannot create claims in this dimension. If you attempt to do so, you will receive the message: *You don't have permission to claim land.*
