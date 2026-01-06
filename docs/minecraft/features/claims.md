@@ -51,9 +51,14 @@ Protection behaves differently depending on which dimension you are currently in
 By default, Overworld claims are created in Area (2D) mode, meaning they are full vertical height. This protects everything from bedrock (Y=-64) to the build limit (Y=320), regardless of the altitude where you clicked with your shovel. However, if you prefer to protect only a specific vertical segment, you can use the `/cuboid` command to switch to 3D/Volumetric mode.
 
 ### The Nether
+
+!!! info inline end "Expanding Your Reach"
+
+    If you reach the maximum size for a claim in the Nether, additional adjacent claims can be used to protect larger builds.
+
 Claims in the Nether are volumetric (3D). They only protect the specific cube area between your two selected points.
 
-These claims must be a minimum size of 5x5x5 blocks and cannot exceed a maximum size of 50x50x50 blocks. If you are unable to create a claim, you may be in the 2D Basic Mode; use the `/cuboid` command to toggle into 3D mode to allow Nether claiming.
+These claims must be a minimum size of 5x5x5 blocks and cannot exceed a maximum size of 50x50x50 blocks. If you are unable to create a claim, you may be in the 2D Basic Mode; use the `/cuboid` command to switch over to 3D mode to allow claim creation in the Nether.
 
 ### The End
 **Land protection is disabled in The End.** You cannot create claims in this dimension. If you attempt to do so, you will receive the message: *You don't have permission to claim land.*
