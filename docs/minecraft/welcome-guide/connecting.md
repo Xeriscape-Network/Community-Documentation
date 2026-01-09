@@ -32,17 +32,17 @@ Select `Done` to add the server; You should then be able to connect to the serve
 ### Bedrock Edition
 As mentioned, clients running Minecraft's Bedrock Edition codebase can also connect to the server through our GeyserMC proxy. The instructions below cover the process of adding the server and connecting to it on Minecraft Pocket and Windows editions; If you would like to connect to Telzenith on a console instead, please refer to [this GeyserMC wiki article](https://geysermc.org/wiki/geyser/using-geyser-with-consoles/) for information regarding how to connect to a server on console. 
 
-??? warning "Minecraft Bedrock Edition Client Parity"
+???+ warning "Minecraft Bedrock Edition Feature Parity"
+    
+    Minecraft Bedrock Edition client support is provided as a convenience to our players and **is not** the officially supported method of connecting to the server. As a result, not all server features may be fully accessible when using a Bedrock client.
+    
+    [Parity differences between Bedrock and Java Edition are expected](https://geysermc.org/wiki/geyser/current-limitations/), including: combat mechanics, graphical behavior, and other gameplay systems. The server prioritizes [Minecraft Java Edition mechanics](https://minecraft.wiki/w/Java_Edition_exclusive_features), meaning features such as combat follow Java’s timing-based system rather than Bedrock’s spam-click style.
 
-	Minecraft Bedrock Edition client support is provided as a convenience to our players and **is not** the officially supported method of connecting to the server as not all server features may be accessible.
-	
-	Some [parity issues](https://geysermc.org/wiki/geyser/current-limitations/), such as combat and graphical issues are also to be expected to be present while using a bedrock client to connect to and play on the server.
-	
-	These are items that Xeriscape cannot fix and will only be addressed by the Geyser team [if reported](https://github.com/GeyserMC/Geyser/issues) as they are present as a consequence of using Bedrock client on a Java based server.
+    These limitations are inherent to connecting with a Bedrock client to a Java-based server and cannot be fixed by the Xeriscape team. Issues of this nature may only be addressed by the Geyser project [if reported](https://github.com/GeyserMC/Geyser/issues), as they stem from the Bedrock-Java compatibility layer.
 
 To connect through Bedrock, navigate to the `Servers` tab of the play menu and select the `+ Add Server` button to add Telzenith as one of your external multiplayer servers.
 
-In the `Add A New Server` prompt, set the `Server Name` to `Telzenith` and use `telzenith.xyz` for the `Server Address`. The port field should remain untouched as we utilize Bedrock's default port of `19132` for incoming Bedrock client connections. Once you have entered relevant server information, you can pick either option to add the server to your list. Regardless of your choice, Minecraft should display the newly added server at the bottom of your server list below the partnered servers with the server displaying its information. You can then select the server and chose to connect from there.
+In the `Add A New Server` prompt, set the `Server Name` to `Telzenith` and use `play.telzenith.xyz` for the `Server Address`. The port field should remain untouched as we utilize Bedrock's default port of `19132` for incoming Bedrock client connections. Once you have entered relevant server information, you can pick either option to add the server to your list. Regardless of your choice, Minecraft should display the newly added server at the bottom of your server list below the partnered servers with the server displaying its information. You can then select the server and chose to connect from there.
 
 <figure markdown="span">
 	![](../../assets/images/minecraft/mcbe_addserver.png)
